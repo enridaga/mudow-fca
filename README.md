@@ -1,6 +1,9 @@
 # mudow-fca
 Some Formal Concept Analysis over Mudow data.
 
+Data:
+- [analysis/](analysis)
+
 Results:
 
 - [Results overview](results.md)
