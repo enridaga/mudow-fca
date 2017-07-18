@@ -1,8 +1,11 @@
 # Repository
 
 ## layer 0
+```
 383987786	158	Resource type=Repository
+```
 ## layer 1
+```
 -1126614015	157	Resource type=Repository|Type: Collection
 -1720207259	154	Access: Public|Resource type=Repository
 -1748699103	98	Resource type=Repository|Interface: Data Dump?
@@ -11,7 +14,9 @@
 1242001961	154	Resource type=Repository|Interface: Human consumption?
 1355149163	153	Resource type=Repository|Interface: SPARQL endpoint?=N/A
 1947389767	146	Resource type=Repository|Feature: Descriptive Metadata
+```
 ## layer 2
+```
 -1153973673	32	Resource type=Repository|Type: Collection|Target audience=scholars
 -1166357761	61	Resource type=Repository|Type: Collection|Affordance: Is playable?
 -155452638	152	Resource type=Repository|Type: Collection|Interface: SPARQL endpoint?=N/A
@@ -75,3 +80,4 @@
 1738525832	142	Resource type=Repository|Interface: Browsable?|Feature: Descriptive Metadata|Interface: Human consumption?
 436787966	145	Resource type=Repository|Type: Collection|Feature: Descriptive Metadata
 439301527	145	Access: Public|Resource type=Repository|Feature: Descriptive Metadata
+```
