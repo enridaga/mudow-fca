@@ -8,10 +8,9 @@ Close item sets generated for types:
 
 ## Definitions
 What's the probability of a certain dimension to characterize a certain resource?
-Observing the bottom layers of the lattice (see layers.md).
+Observe [the bottom layers of the lattice](layers.md).
 
-Selecting association rules with high support and confidence (see rules.md), we obtain the following definitions:
-
+Selecting association rules with high support and confidence ([see rules.md](rules.md)), we derive the following definitions:
 - A Repository is a collection of publicly accessible resources organized for human consumption, browsable.
 - A Dataset is a collection published in an *interoperable format* for research purposes, which access is public and free of charge.
 - A Digital Library is a browsable collection focused on *descriptive metadata*, delivered with public access for research purposes.
@@ -23,4 +22,4 @@ Selecting association rules with high support and confidence (see rules.md), we 
 Some dimensions, without having a large spread, can still characterize relevant subsets.
 We selected the best rule for each head (consequent) - highest support (with a trashold of 0.3 support).
 
-[TODO Select relevant associations]
+[TODO Select interesting associations from the lists]
