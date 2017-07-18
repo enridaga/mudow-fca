@@ -1,4 +1,4 @@
-Relevance of dimensions.
+Best rules for head (consequence).
 
 ## Repository
 ```
