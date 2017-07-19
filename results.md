@@ -20,6 +20,6 @@ Selecting association rules with high support and confidence ([see rules.md](rul
 
 ## Relevant associations
 Some dimensions, without having a large spread, can still characterize relevant subsets.
-We selected the best rule for each head (consequent) - highest support (with a trashold of 0.3 support).
+We selected the best rule for each head (consequent) - high confidence (0.7<>1) (and a trashold on the support).
 
 [TODO Select interesting associations from the lists]
