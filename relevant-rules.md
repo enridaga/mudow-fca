@@ -137,22 +137,6 @@ Function:
 0.818	0.409	Scope: Object type=Score & Collection: Size=<1000 & Scope: MO type=Score <- Resource type=Digital edition & Access: Public & Target audience=researchers & Type: Collection & Access: Free/Charged=Free & Interface: Browsable? & Purpose: Research & Feature: Descriptive Metadata & Scope: Artist & Interface: Human consumption? & Situation/Task=musicology
 ```
 
-## Ontology
-```
-0.846	Collection: Size=N/A & Interface: Data Dump? & Data size=N/A <- Access: Public & Type: Specification & Scope: Formats=owl & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Format: Interoperable? & Resource type=Ontology
-0.769	Interface: Browsable? <- Access: Public & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Target audience=researchers & Interface: Data Dump? & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Format: Interoperable? & Resource type=Ontology
-0.692	Interface: Human consumption? <- Access: Public & Type: Specification & Scope: Formats=owl & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Format: Interoperable? & Resource type=Ontology
-0.692	Interface: Is it queryable? <- Access: Public & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Target audience=researchers & Interface: Data Dump? & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Format: Interoperable? & Resource type=Ontology
-0.615	Interface: Browsable? & Interface: Human consumption? <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Is it queryable? & Interface: Data Dump? & Format: Interoperable? & Resource type=Ontology
-0.615	Data size=N/A & Collection: Size=N/A & Interface: Is it queryable? & Interface: Data Dump? & Interface: Browsable? <- Access: Public & Type: Specification & Scope: Formats=owl & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Format: Interoperable? & Resource type=Ontology & Interface: Human consumption?
-0.615	Interface: Is it queryable? & Interface: Human consumption? <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Data Dump? & Interface: Browsable? & Format: Interoperable? & Resource type=Ontology
-0.615	Interface: SPARQL endpoint?=N/A <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Is it queryable? & Interface: Data Dump? & Format: Interoperable? & Resource type=Ontology
-0.538	Situation/Task=music annotation <- Access: Public & Type: Specification & Scope: Formats=owl & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Format: Interoperable? & Resource type=Ontology & Interface: Human consumption?
-0.385	Access: license=Open Access <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Interface: SPARQL endpoint?=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Is it queryable? & Interface: Data Dump? & Interface: Browsable? & Format: Interoperable? & Resource type=Ontology & Interface: Human consumption?
-0.385	Scope: Object type=Audio <- Access: Public & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Target audience=researchers & Interface: Data Dump? & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Format: Interoperable? & Resource type=Ontology
-0.385	Access: license=Open Access & Interface: Browsable? & Interface: Human consumption? <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Interface: SPARQL endpoint?=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Is it queryable? & Interface: Data Dump? & Format: Interoperable? & Resource type=Ontology
-0.308	Access: license=CC-BY <- Access: Public & Target audience=researchers & Access: Free/Charged=Free & Purpose: Research & Data size=N/A & Type: Specification & Scope: Formats=owl & Collection: Size=N/A & Interface: Data Dump? & Interface: Browsable? & Format: Interoperable? & Resource type=Ontology
-```
 
 ## Format
 > relevance 0.9 0.1
