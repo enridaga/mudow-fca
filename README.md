@@ -1,5 +1,5 @@
-# mudow-fca
-Some Formal Concept Analysis over Mudow data.
+# musow-fca
+Some Formal Concept Analysis over **musoW** data.
 
 Data:
 - [analysis/](analysis)
